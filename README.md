@@ -4,3 +4,4 @@
 # <기술스택>
 ## TypeScript
 
+사용 -> Node.js -> yarn start
